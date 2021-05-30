@@ -1,4 +1,4 @@
-Safelink /**
+/**
  * jQuery PieTimer Plugin v0.1
  * Authors: Kus (http://blakek.us/css3-pie-graph-timer-with-jquery/)
  *          Connor Doyle (jQuery plugin)
